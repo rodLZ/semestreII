@@ -1,0 +1,3 @@
+C:/Users/zamor/NuevoTema/cmake-build-debug/CMakeFiles/NuevoTema.dir
+C:/Users/zamor/NuevoTema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zamor/NuevoTema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
